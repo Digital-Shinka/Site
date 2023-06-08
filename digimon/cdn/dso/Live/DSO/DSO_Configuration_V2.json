@@ -13,7 +13,7 @@
   },
   "LanuncherInfo": {
     "DownloadPath": "https://digital-shinka.github.io/Site/Launcher/",
-    "CurrentVersion": 313,
+    "CurrentVersion": 314,
     "ExeFileName": "DSOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
@@ -35,6 +35,11 @@
 	  {
         "Version": 313,
         "DownloadFile": "Launcher_313.zip"
+      }
+	  ,
+	  {
+        "Version": 314,
+        "DownloadFile": "Launcher_314.zip"
       }
     ]
   },
