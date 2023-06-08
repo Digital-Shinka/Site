@@ -8,12 +8,12 @@
   },
   "PatchInfo": {
     "DownloadUrl": "https://digital-shinka.github.io/Site/UpdatePatch/",
-    "MinPatchVersion": 0,
+    "MinPatchVersion": 1,
     "PatchVersion":10 
   },
   "LanuncherInfo": {
     "DownloadPath": "https://digital-shinka.github.io/Site/Launcher/",
-    "CurrentVersion": 312,
+    "CurrentVersion": 313,
     "ExeFileName": "DSOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
@@ -30,6 +30,11 @@
 	  {
         "Version": 312,
         "DownloadFile": "Launcher_312.zip"
+      }
+	  ,
+	  {
+        "Version": 313,
+        "DownloadFile": "Launcher_313.zip"
       }
     ]
   },
