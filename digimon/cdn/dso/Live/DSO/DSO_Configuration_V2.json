@@ -46,6 +46,11 @@
         "Version": 315,
         "DownloadFile": "Launcher_315.zip"
       }
+	  ,
+	  {
+        "Version": 316,
+        "DownloadFile": "Launcher_316.zip"
+      }
     ]
   },
   "UMInfo": {
