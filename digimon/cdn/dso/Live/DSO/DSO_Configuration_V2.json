@@ -55,7 +55,7 @@
   },
   "UMInfo": {
     "DownloadPath": "https://digital-shinka.github.io/Site/UpdateManager/",
-    "CurrentVersion": 9,
+    "CurrentVersion": 10,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DSOLauncher.exe",
     "VersionList": [
@@ -67,6 +67,11 @@
 	  {
         "Version": 9,
         "DownloadFile": "UM_9.zip"
+      }
+	   ,
+	  {
+        "Version": 10,
+        "DownloadFile": "UM_10.zip"
       }
     ]
   },
