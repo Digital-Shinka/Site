@@ -111,7 +111,8 @@
       "MainPageUrl": "https://digital-shinka.github.io/Site/main.html",
       "BanerUrl": "https://digital-shinka.github.io/Site/banner.html",
       "ClientIP": "190.102.42.152",
-	  "ClientPort": "7029"
+	    "ClientPort": "7029",
+      "Unlock":false
 	  
     }
   ]
