@@ -71,6 +71,11 @@
           "Version": 320,
           "DownloadFile": "Launcher_320.zip"
         }
+        ,
+      {
+          "Version": 321,
+          "DownloadFile": "Launcher_321.zip"
+        }
     ]
   },
   "UMInfo": {
