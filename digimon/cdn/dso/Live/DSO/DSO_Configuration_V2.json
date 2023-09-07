@@ -120,8 +120,8 @@
       "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
       "MainPageUrl": "https://digital-shinka.github.io/Site/main.html",
       "BanerUrl": "https://digital-shinka.github.io/Site/banner.html",
-      "ClientIP": "0.0.0.0",
-	    "ClientPort": "7601",
+      "ClientIP": "game.digitalshinkaonline.com",
+	    "ClientPort": "7605",
       "Unlock":false
 	  
     }
